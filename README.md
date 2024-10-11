@@ -1,18 +1,35 @@
-💻 프로젝트 소개
-힘든 삶 속에서 대학생으로 회귀한다면?.. 청춘 남녀들의 잊지 못할 대학생 체험기 가상 대학생활을 몸소 체험하며 두근두근함을 느끼는 우리는 청춘대🎀 두근두근 청춘❤
+## 💻 `프로젝트 소개`
 
-청춘 남녀들의 잊지 못할 대학생 체험기 가상 대학생활을 몸소 체험하며 두근두근함을 느끼는 우리는 청춘대🎀 두근두근 청춘❤
 
-⌨️ 개발 기간
-7월 10일 ~ 8월 14일
-🧑‍🤝‍🧑 멤버구성
-팀원1 : 지동현
-팀원2 : 박성은
-팀원3 : 배하은
-팀원4 : 이의정
-⚙️ 개발 환경
-Html Css JavaScript Java Spring
-SpringBoot SpringSecurity MySQL Timeleaf
+
+
+##  ⌨️ `개발 기간`
+
+- 7월 10일 ~ 8월 14일
+
+## 🧑‍🤝‍🧑 `멤버구성`
+ - 팀원1 : 배하은
+ - 팀원2 : 홍주연
+ - 팀원3 : 이규섭
+ - 팀원4 : 이의정
+ - 팀원5 : 이득규
+
+## ⚙️ `개발 환경`
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+<img alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<br>
+<img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img alt="SpringSecurity" src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img alt="Timeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+
+
+
+## 💻 ...
+<a href = "https://github.com/ChungChun-university/DoognDoogn.git"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a> 
+
 
 💻 ...
 GitHub
