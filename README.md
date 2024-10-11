@@ -9,8 +9,7 @@ Shall We Pets!
 
 
 ##  ⌨️ `개발 기간`
-
-- 
+9.26 ~ 10.11
 
 ## 🧑‍🤝‍🧑 `멤버구성`
  - 팀원1 : 배하은
@@ -558,9 +557,9 @@ C:.
 
 ## 오대산-쉘 위 펫즈웹 스크린 구성 및 기능
 
-| **Home** |  **Login**  |  **Register** |
+| **관리자 메뉴** |  **회원관리**  |  **업체관리** |
 | :---:|:---:|:---:|
-| <img align="center" alt="메인" src="./img/메인.png" width="240px" /> | <img align="center" alt="로그인" src="./img/로그인.png" width="240px" /> | <img align="center" alt="회원가입" src="./img/회원가입.png" width="240px" /> |
+| <img align="center" alt="관리자 메뉴" src="./imng/관리자 환경.PNG" width="240px" /> | <img align="center" alt="회원 관리" src="./img/로그인.png" width="240px" /> | <img align="center" alt="회원가입" src="./img/회원가입.png" width="240px" /> |
 
 | **FindUserById** |  **Notification**  |  **Posts** |
 | :---:|:---:|:---:|
