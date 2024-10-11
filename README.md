@@ -559,13 +559,17 @@ C:.
 
 | **관리자 메뉴** |  **회원관리**  |  **업체관리** |
 | :---:|:---:|:---:|
-| <img align="center" alt="관리자 메뉴" src="./imng/관리자 환경.PNG" width="240px" /> | <img align="center" alt="회원 관리" src="./img/로그인.png" width="240px" /> | <img align="center" alt="회원가입" src="./img/회원가입.png" width="240px" /> |
+| <img align="center" alt="관리자 메뉴" src="./img/관리자 환경.PNG" width="240px" /> | <img align="center" alt="회원 관리" src="./img/회원관리.PNG" width="240px" /> | <img align="center" alt="업체관리" src="./img/업체관리페이지.PNG" width="240px" /> |
 
-| **FindUserById** |  **Notification**  |  **Posts** |
+| **관리자-회원조회** |  **관리자-회원상세조회**  |  **관리자-리뷰조회** |
 | :---:|:---:|:---:|
-| <img align="center" alt="ID찾기" src="./img/ID찾기.png" width="240px" /> | <img align="center" alt="공지사항" src="./img/공지사항.png" width="240px" /> | <img align="center" alt="게시판" src="./img/게시판.png" width="240px" /> |
+| <img align="center" alt="회원조회" src="./img/관리자회원조회.PNG" width="240px" /> | <img align="center" alt="회원상세조회" src="./img/관리자회원상세조회.PNG" width="240px" /> | <img align="center" alt="리뷰조회" src="./img/관리자리뷰조회.PNG" width="240px" /> |
 
-| **Course** |  **MyClass**  |  **MyPage** |
+| **관리자-포인트회원조회** |  **관리자-포인트상세회원조회**  |  **관리자-업체전체필터링조회** |
 | :---:|:---:|:---:|
-| <img align="center" alt="강의" src="./img/강의.png" width="240px" /> | <img align="center" alt="나의수강" src="./img/나의수강.png" width="240px" /> | <img align="center" alt="마이페이지" src="./img/마이페이지.png" width="240px" /> |
+| <img align="center" alt="포인트회원조회" src="./img/관리자포인트회원 조회.PNG" width="240px" /> | <img align="center" alt="포인트상세회원조회" src="./img/관리자포인트상세조회.PNG" width="240px" /> | <img align="center" alt="업체전체필터링조회" src="./img/관리자업체전체필터링조회.PNG" width="240px" /> |
+
+| **관리자-업체상세조회** |  **관리자-관리자반려**  |  **관리자-업체전체필터링조회** |
+| :---:|:---:|:---:|
+| <img align="center" alt="업체상세조회" src="./img/관리자업체상세조회.PNG" width="240px" /> | <img align="center" alt="관리자반려" src="./img/관리자반려.PNG" width="240px" /> | <img align="center" alt="업체전체필터링조회" src="./img/관리자업체전체필터링조회.PNG" width="240px" /> |
 
