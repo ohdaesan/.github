@@ -505,8 +505,54 @@ C:.
 |       \---templates
 \---test
     \---java
+
+
         \---com
             \---ohdaesan
                 \---shallwepets
                         ShallWePetsBackApplicationTests.java
 ```
+
+## 📌 주요 기능
+###  🖱️ 기능명
+- 기능내용
+
+로그인
+- 일반사용자와 관리자 ID 로 구분하여 로그인 진행가능
+
+회원가입
+- ID, 비밀번호, 이름, 전화번호를 입력하여 회원가입 진행가능
+
+ID 찾기
+- 이름, 전화번호를 입력하여 ID 찾기 진행가능
+
+로그아웃
+- 로그인된 상태에서 로그아웃 버튼 클릭시 로그아웃 진행가능
+
+
+### 📋 게시판관리 
+- 
+
+## 🗣️ 후기
+
+>- 배하은:
+
+/br
+
+>-- 홍주연
+ 
+
+## 오대산-쉘 위 펫즈웹 스크린 구성 및 기능
+
+| **Home** |  **Login**  |  **Register** |
+| :---:|:---:|:---:|
+| <img align="center" alt="메인" src="./img/메인.png" width="240px" /> | <img align="center" alt="로그인" src="./img/로그인.png" width="240px" /> | <img align="center" alt="회원가입" src="./img/회원가입.png" width="240px" /> |
+
+| **FindUserById** |  **Notification**  |  **Posts** |
+| :---:|:---:|:---:|
+| <img align="center" alt="ID찾기" src="./img/ID찾기.png" width="240px" /> | <img align="center" alt="공지사항" src="./img/공지사항.png" width="240px" /> | <img align="center" alt="게시판" src="./img/게시판.png" width="240px" /> |
+
+| **Course** |  **MyClass**  |  **MyPage** |
+| :---:|:---:|:---:|
+| <img align="center" alt="강의" src="./img/강의.png" width="240px" /> | <img align="center" alt="나의수강" src="./img/나의수강.png" width="240px" /> | <img align="center" alt="마이페이지" src="./img/마이페이지.png" width="240px" /> |
+
