@@ -559,7 +559,7 @@ C:.
 
 | **관리자 메뉴** |  **회원관리**  |  **업체관리** |
 | :---:|:---:|:---:|
-| <img align="center" alt="관리자 메뉴" src="./img/관리자 환경.PNG" width="240px" /> | <img align="center" alt="회원 관리" src="./img/회원관리.PNG" width="240px" /> | <img align="center" alt="업체관리" src="./img/업체관리페이지.PNG" width="240px" /> |
+| <img align="center" alt="관리자 메뉴" src="./img/관리자 화면.PNG" width="240px" /> | <img align="center" alt="회원 관리" src="./img/관리자회원관리.PNG" width="240px" /> | <img align="center" alt="업체관리" src="./img/관리자업체관리페이지.PNG" width="240px" /> |
 
 | **관리자-회원조회** |  **관리자-회원상세조회**  |  **관리자-리뷰조회** |
 | :---:|:---:|:---:|
