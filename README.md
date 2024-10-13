@@ -759,5 +759,5 @@ GPT는 개발 초기 단계에서 어떻게 시작해야할지 막막할 때는 
 
 | **채팅** |  **마이페이지-북마크**  |  **마이페이지-포인트 조회** |
 | :---:|:---:|:---:|
-| <img align="center" alt="채팅" src="./img/채팅방.PNG" width="240px" /> | <img align="center" alt="북마크" src="./img/내북마크.PNG" width="240px" /> | <img align="center" alt="포인트" src="./img/내포인트" width="240px" /> |
+| <img align="center" alt="채팅" src="./img/채팅방.PNG" width="240px" /> | <img align="center" alt="북마크" src="./img/내북마크.PNG" width="240px" /> | <img align="center" alt="포인트" src="./img/내포인트내역" width="240px" /> |
 
