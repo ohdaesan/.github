@@ -757,6 +757,6 @@ C:.
 | :---:|:---:|:---:|
 | <img align="center" alt="회원정보수정" src="./img/회원정보수정.PNG" width="240px" /> | <img align="center" alt="비밀번호변경" src="./img/비밀번호변경.PNG" width="240px" /> | <img align="center" alt="계정삭제" src="./img/계정삭제.PNG" width="240px" /> |
 
-| **마이페이지-업체등록** |  **마이페이지-내업체리스트**  | 
+| **마이페이지-업체등록** |  **마이페이지-내업체리스트**  | **  ** |
 | :---:|:---:|:---:|
-| <img align="center" alt="업체등록" src="./img/업체등록.PNG" width="240px" /> | <img align="center" alt="내업체리스트" src="./img/내업체리스트.PNG" width="240px" /> | 
+| <img align="center" alt="업체등록" src="./img/업체등록.PNG" width="240px" /> | <img align="center" alt="내업체리스트" src="./img/내업체리스트.PNG" width="240px" /> |  |
